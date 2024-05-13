@@ -1,5 +1,5 @@
 # AquaToys
-このページはAquaToysのサポートページです。
+このページはiOSアプリ[AquaToys](https://apple.co/4dCxuhN)のサポートページです。
 
 ## AquaToysとは
 AquaToysはスイマーのとしての活動をより便利にする、さまざまなツールを提供するiOS向けアプリです。
@@ -11,6 +11,7 @@ AquaToysはスイマーのとしての活動をより便利にする、さまざ
 
 ## ダウンロード
 app storeよりダウンロードしてください。
+https://apple.co/4dCxuhN
 
 ## プライバシーポリシー
 [プライバシーポリシーページ](./privacyPolicy/index.md)よりご確認ください
